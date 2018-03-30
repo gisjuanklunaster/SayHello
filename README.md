@@ -1,4 +1,4 @@
-# SayHello
+# SayHello JS
 
 SayHello is a mini library that will help with giving greetings in different languages. It's an easy way to provide your application with a default greeting.
 
