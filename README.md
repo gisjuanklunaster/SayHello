@@ -25,3 +25,10 @@ Next, the Javascript core concepts I seeked to apply by the implementation of th
 
 ## References
 I'd like to thank [Anthony Alicea](https://twitter.com/anthonypalicea) for being such a brillian Udemy instructor. Many of the concepts I applied here, I learnt them from one of his Best Sellers, [Javascript: Understanding the weird parts](https://www.udemy.com/understand-javascript/)
+
+
+Questions?
+----------
+
+If you have any questions, please feel free to ask via email to
+[gisjuanklunaster@gmail.com](mailto:gisjuanklunaster@gmail.com?Subject=SayHello%20JS)
