@@ -23,6 +23,20 @@ Next, the Javascript core concepts I seeked to apply by the implementation of th
 - Reflection and Extend
 - Prototypal inheritance
 
+## How it works?
+All you need to import into your project is SayHello.js (inside src/). Source Folder contains an example in src/index.html. app.js contains two examples of how this can be used.
+
+It's so simple of using as the two following lines:
+```
+// create a 'SayHello' object
+// by passing the firstName, lastName and (optionally) the two-letter iso language code
+var sayHello = SH$('John', 'Doe', 'fr');
+
+// invoke HTMLGreeting passing a jQuery selector and (optionally) a true flag for setting a formal greeting.
+// the function will take care of injecting the message in the chosen place in the DOM
+sayHello.setLanguage('es').HTMLGreeting('#greeting', true)
+```
+
 ## References
 I'd like to thank [Anthony Alicea](https://twitter.com/anthonypalicea) for being such a brillian Udemy instructor. Many of the concepts I applied here, I learnt them from one of his Best Sellers, [Javascript: Understanding the weird parts](https://www.udemy.com/understand-javascript/)
 
