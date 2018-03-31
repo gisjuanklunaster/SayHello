@@ -8,10 +8,10 @@ SayHello is a mini library that will help with giving greetings in different lan
   - English, Spanish, Chinese, German, French, Portuguese, Italian, Russian, Japanese and Greek.
 - Reusable (it won't interfere with any of the other Javascript code in your app)
 - Easy to type 'SH$()' structure, i.e. kind of JQuery-like
-- Supports JQuery, i.e. it returns a greeting wrapped in a JQuery object that points at your desired HTML element, filling that element with the greeting. So for instance, you could pass SayHello a div or a span in your HTML that just just contains text, and it will fill that with the appropiate greeting text.
+- Supports JQuery, i.e. it returns a greeting wrapped in a JQuery object that points at your desired HTML element, filling that element with the greeting. So for instance, you could pass SayHello a div or a span in your HTML that just contains text, and it will fill that with the appropiate greeting text.
 
 ## Why
-This mini-library is inteneded to apply some Javascript core concepts than in providing some advanced functionality.
+This mini-library is inteneded to apply some Javascript core concepts instead of providing some advanced functionality.
 Next, the Javascript core concepts I seeked to apply by the implementation of this mini-library:
 - Execution Contexts and Lexical environments
 - Hoisting
@@ -24,7 +24,7 @@ Next, the Javascript core concepts I seeked to apply by the implementation of th
 - Prototypal inheritance
 
 ## How it works?
-All you need to import into your project is SayHello.js (inside src/). Source Folder contains an example in src/index.html. app.js contains two examples of how this can be used.
+All you need to import into your project is SayHello.js (inside src/). Source Folder contains an example in src/index.html. On the other hand, app.js contains two examples of how this library can be used.
 
 It's so simple of using as the two following lines:
 ```
